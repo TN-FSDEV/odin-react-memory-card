@@ -17,7 +17,7 @@ Test your memory by clicking on unique Pokémon cards — but don’t click the 
 
 ## 📸 Demo
 *(Add your deployed site link here, e.g. from Netlify or Vercel)*  
-[Live Demo](https://your-deployed-game-link.com)
+[Live Demo](https://odin-react-memory-card-peach.vercel.app/)
 
 ---
 
